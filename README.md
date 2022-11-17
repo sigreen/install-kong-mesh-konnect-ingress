@@ -137,9 +137,9 @@ kubectl apply -f konnect/mtls.yaml
 
 ## Create a Gateway ingress using Konnect dataplane
 
-1. Via the Mesh GUI, navigate to Data Plane Proxies and click the #Create data plane proxy# button.
+1. Via the Mesh GUI, navigate to Data Plane Proxies and click the **Create data plane proxy** button.
 
-2. Select default mesh, then click #Next#
+2. Select default mesh, then click **Next**.
 
 3. In the namespace field, type `kong` which is where the Konnect dataplane ingress point is running.
 
